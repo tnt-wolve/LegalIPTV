@@ -1,17 +1,85 @@
 #EXTM3U
-#EXTINF:0,CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CNN_HD.svg/2000px-CNN_HD.svg.png",CNN
 http://p4.giffy.be:8080/live/toby1/toby1/20916.ts
-#EXTINF:0,Cartoon Network
-http://p4.giffy.be:8080/live/demo/demo/21995.ts
-#EXTINF:0,Disney XD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%253AANd9GcQ4b697encOFkaEbti3gEjwBimU-b-qrvocYhFAJoBvFjdoEgNd",Cartoon Network
+http://144.217.64.126:8080/live/toby1/toby1/20988.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%253AANd9GcS7VcbZoi_Bp-AoLUVNAb7pZLhh4hrIuBv7_GoM3gwlT3rQyYIQ",Disney XD
 http://192.99.147.149:25461/live/gatotv/perteneceagatotvsrregioladron/45.m3u8
-#EXTINF:0,Fox News
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/15/Fox_News_Channel_HD.png/revision/latest?cb=20110408025321",Fox News
 https://videoserver1.org/live/8_79hBMFYHCBC-OWoeYZWw/1517704041/877e1fd192b3a58577e4387971c215a7.m3u8
-#EXTINF:0,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,Nickelodeon
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/MSNBC_HD.png/revision/latest?cb=20110408024758",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/2000px-Nick_HD_Logo.svg.png",Nickelodeon
 https://videoserver2.org/live/Lf8TTBxwCis2fa5Rs9KJHA/1517704084/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
-#EXTINF:0,QVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/QVC_HD.svg/2000px-QVC_HD.svg.png",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-#EXTINF:0,Weather Channel
-http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/The-Weather-Channel-Logo.gif",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tLEWBgXXuL8/maxresdefault_live.jpg",Steven Universe 24/7
+https://live.ponies.fr/hls/sug-hd/sug.m3u8
+#EXTINF:-1 tvg-logo="http://mediad.publicbroadcasting.net/p/wpr/files/styles/x_large/public/201601/BBC_WNews_Stack_Rev_ws_CMYK_HR_0.jpg",BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/2000px-Logo_of_C-SPAN.svg.png",C-SPAN 1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/C-SPAN2.png/revision/latest?cb=20110408015937",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgkXesQ.png",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MH7kNnl.png",CBSN
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1 tvg-logo="http://www.golfchannel.com/public/images/gc-logo-16-9.png",Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9VKlxx.png",MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gjBAU2S.png",NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
+https://live.olympicchannel.com/ocs/channel01b/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buPAXY7.png",RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png/revision/latest?cb=20111129112216",ESPN
+http://144.217.64.126:8080/live/toby1/toby1/13859.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1024px-Espn2.svg.png",ESPN 2
+http://144.217.64.126:8080/live/toby1/toby1/13860.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%253AANd9GcStVBpddLSvSCkpFOpEtF0WZtjpVcik2ez8Xnokaq14RdMNOTYP",CBS Sports
+http://144.217.64.126:8080/live/toby1/toby1/20948.ts
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-wXBj7B8Fsb0/TrLjTgYn4lI/AAAAAAAALCM/GT5SPWCkPtw/s1600/2.jpg",WWE
+http://144.217.64.126:8080/live/toby1/toby1/20913.ts
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/44/06/db/4406dbea-3673-afa4-f8c1-9cabc08b6a16/AppIcon-1x_U007emarketing-85-220-0-5.png/246x0w.jpg",Food Network
+http://144.217.64.126:8080/live/toby1/toby1/29963.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png",HGTV
+http://144.217.64.126:8080/live/toby1/toby1/21107.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%2528TV_network%2529_2017_logo.svg/1024px-HLN_%2528TV_network%2529_2017_logo.svg.png",HLN
+http://144.217.64.126:8080/live/toby1/toby1/26550.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fe/Animal_Planet_HD_%25282008%2529.png/revision/latest?cb=20160126195325",Animal Planet
+http://144.217.64.126:8080/live/toby1/toby1/21103.ts
+#EXTINF:-1 tvg-logo="http://enacademic.com/pictures/enwiki/68/DiscoveryHD.png",Discovery
+http://144.217.64.126:8080/live/toby1/toby1/21102.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/History_HD.png/revision/latest?cb=20161213140619",History
+http://144.217.64.126:8080/live/toby1/toby1/21106.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",National Geographic
+http://144.217.64.126:8080/live/toby1/toby1/21105.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/NAT_GEO_WILD_HD.png/revision/latest?cb=20150314182728",Nat Geo Wild
+http://144.217.64.126:8080/live/toby1/toby1/21104.ts
+#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/AMCHD.png",AMC
+http://144.217.64.126:8080/live/toby1/toby1/29969.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Fox_Business_HD.png/revision/latest?cb=20110408025208",Fox Business
+http://144.217.64.126:8080/live/toby1/toby1/20983.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%253AANd9GcTGYwnxjmw174gw7LXKHGyFQJl68-C3qFgANtxNeflYSdiU6cQ2",TNT
+http://144.217.64.126:8080/live/toby1/toby1/21459.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/BBCAmericasquare.png/revision/latest?cb=20160109225206",BBC America
+http://144.217.64.126:8080/live/toby1/toby1/20977.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png",Comedy Central
+http://144.217.64.126:8080/live/toby1/toby1/20904.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/952749303541399552/NNFrRNGk_400x400.jpg",Science
+http://144.217.64.126:8080/live/toby1/toby1/20935.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%253AANd9GcS4lMnww0P2F3z75Kwv3WmypTMjYWA0n1g6TnC8EmQVTm48NQUi",OWN
+http://144.217.64.126:8080/live/toby1/toby1/20979.ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA=w300",Syfy
+http://144.217.64.126:8080/live/toby1/toby1/20909.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/2000px-TBS_logo_2016.svg.png",TBS
+http://144.217.64.126:8080/live/toby1/toby1/20987.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/NBCSN_HD_logo.png/revision/latest?cb=20140329165300",NBC SN
+http://144.217.64.126:8080/live/toby1/toby1/23190.ts
