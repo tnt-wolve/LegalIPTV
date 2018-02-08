@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,CNN
+http://p4.giffy.be:8080/live/toby1/toby1/20916.ts
+#EXTINF:0,Cartoon Network
+http://p4.giffy.be:8080/live/demo/demo/21995.ts
+#EXTINF:0,Disney XD
+http://192.99.147.149:25461/live/gatotv/perteneceagatotvsrregioladron/45.m3u8
+#EXTINF:0,Fox News
+https://videoserver1.org/live/8_79hBMFYHCBC-OWoeYZWw/1517704041/877e1fd192b3a58577e4387971c215a7.m3u8
+#EXTINF:0,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Nickelodeon
+https://videoserver2.org/live/Lf8TTBxwCis2fa5Rs9KJHA/1517704084/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8
+#EXTINF:0,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:0,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
