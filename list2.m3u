@@ -7,7 +7,29 @@ https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2C9dYXr" tvg-name="Fox News HD" group-title="News", Fox News HD
 http://nettv.rocks:25461/live/test0/test0/153.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2BiTEWS" tvg-name="CNBC HD" group-title="News", CNBC HD
+http://nettv.rocks:25461/live/test0/test0/176.ts
 #EXTINF:0 tvg-logo="http://bit.ly/2Ey2LoG" tvg-name="Cartoon Network HD" group-title="Kids", Cartoon Network HD
 http://p4.giffy.be:8080/live/toby1/toby1/20988.ts
 #EXTINF:0 tvg-logo="http://bit.ly/2loPwfk" tvg-name="Disney XD HD" group-title="Kids", Disney XD HD
 http://nettv.rocks:25461/live/test0/test0/1867.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2Ey8kmX" tvg-name="Boomerang HD" group-title="Kids", Boomerang HD
+http://nettv.rocks:25461/live/test0/test0/3087.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2BZNJDj" tvg-name="A&E HD" group-title="Entertainment", A&E HD
+http://nettv.rocks:25461/live/test0/test0/194.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2fbLEuK" tvg-name="ABC HD" group-title="Entertainment", ABC HD
+http://nettv.rocks:25461/live/test0/test0/193.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2Ei0HC1" tvg-name="BBC America HD" group-title="Entertainment", BBC America HD
+http://nettv.rocks:25461/live/test0/test0/188.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2Ei3ZkE" tvg-name="CBS HD" group-title="Entertainment", CBS HD
+http://nettv.rocks:25461/live/test0/test0/181.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2EjhV1u" tvg-name="CBS Sports HD" group-title="Entertainment", CBS Sports HD
+http://nettv.rocks:25461/live/test0/test0/180.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2vTlqmS" tvg-name="Cinemax HD" group-title="Entertainment", Cinemax HD
+http://nettv.rocks:25461/live/test0/test0/179.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2eYOkin" tvg-name="Comedy Central HD" group-title="Entertainment", Comedy Central HD
+http://nettv.rocks:25461/live/test0/test0/173.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2EsNXYr" tvg-name="Discovery HD" group-title="Entertainment", Discovery HD
+http://nettv.rocks:25461/live/test0/test0/170.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2G2XrGG" tvg-name="Science HD" group-title="Entertainment", Science HD
+http://nettv.rocks:25461/live/test0/test0/168.ts
