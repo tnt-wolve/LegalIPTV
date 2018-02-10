@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-id="cnn.info" tvg-logo="http://bit.ly/2Ey2WQL" tvg-name="CNN HD" url-epg="http://tvprofil.net/xmltv/data/cnn.info/weekly_cnn.info_tvprofil.net.xml" group-title="News", CNN HD
+http://nettv.rocks:25461/live/test0/test0/174.ts
+#EXTINF:0 tvg-id="bloomberg.info" tvg-logo="http://bit.ly/2shz46e" tvg-name="Bloomberg HD" url-epg="http://tvprofil.net/xmltv/data/cnn.info/weekly_bloomberg.info_tvprofil.net.xml" group-title="News", Bloomberg HD
+https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2Bo2NgC" tvg-name="MSNBC HD" group-title="News", MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:0 tvg-logo="http://bit.ly/2C9dYXr" tvg-name="Fox News HD" group-title="News", Fox News HD
+http://nettv.rocks:25461/live/test0/test0/153.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2Ey2LoG" tvg-name="Cartoon Network HD" group-title="Kids", Cartoon Network HD
+http://p4.giffy.be:8080/live/toby1/toby1/20988.ts
+#EXTINF:0 tvg-logo="http://bit.ly/2loPwfk" tvg-name="Disney XD HD" group-title="Kids", Disney XD HD
+http://nettv.rocks:25461/live/test0/test0/1867.ts
