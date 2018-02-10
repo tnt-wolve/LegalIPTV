@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="cnn.info" tvg-logo="http://bit.ly/2Ey2WQL" tvg-name="CNN HD" url-epg="http://tvprofil.net/xmltv/data/cnn.info/weekly_cnn.info_tvprofil.net.xml" group-title="News", CNN HD
-http://nettv.rocks:25461/live/test0/test0/174.ts
+http://p4.giffy.be:8080/live/toby1/toby1/20916.ts
 #EXTINF:0 tvg-id="bloomberg.info" tvg-logo="http://bit.ly/2shz46e" tvg-name="Bloomberg HD" url-epg="http://tvprofil.net/xmltv/data/cnn.info/weekly_bloomberg.info_tvprofil.net.xml" group-title="News", Bloomberg HD
 https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:0 tvg-logo="http://bit.ly/2Bo2NgC" tvg-name="MSNBC HD" group-title="News", MSNBC HD
